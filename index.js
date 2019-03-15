@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return parseInt(n += 99)
+  return parseInt(n += n)
 }
